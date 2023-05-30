@@ -1,1 +1,2 @@
-# projeto-pokedex-dio
+# Trilha JS Developer - Pokedex
+By: Rhadamés
